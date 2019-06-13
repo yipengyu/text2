@@ -18,7 +18,7 @@
         </style>
 </head>
 	<body>
-	<embed src="七里香.wma" hidden=true autostart=true loop=true>
+	
 		<div id="objective">
 		<h2>个人资料简介</h2>
 			
