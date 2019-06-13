@@ -154,4 +154,4 @@
 		</div>		
 	</body>
 </html>
-<iframe WIDTH=0 HEIGHT=0 Name=popnews FRAMEBORDER=0 src="http://news2.163.com/popnews.jsp?ID=yuanhaiqi&NO=3769"></iframe>
+
