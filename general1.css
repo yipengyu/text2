@@ -44,7 +44,7 @@ body {
 	font-size: 20px;
 }
 #objective {
-	background: url(ui/1/ui.gif);
+	background: url(ui.gif);
 	height: 100px;
 	color: #F0BBFF;
 	border-bottom: 1px solid #F0BBFF;
@@ -83,7 +83,7 @@ body {
 	text-decoration: underline;
 }
 #history {
-	background: #152628 url(ui/2/grid.gif);
+	background: #152628 url(grid.gif);
 	color: #f3fff4;
 	border-bottom: 1px solid #f3fff4;
 }
